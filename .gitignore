@@ -1,0 +1,7 @@
+__pycache__/
+data/
+Lung Segmentation/
+results/
+.ipynb_checkpoints/
+*.pth
+*.txt
